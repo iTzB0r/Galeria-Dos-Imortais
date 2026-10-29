@@ -1,40 +1,34 @@
-##  Galeria dos Imortais: Seu Time de Todos os Tempos! 
+# Galeria dos Imortais ⚽
 
-**⚽ Gol de Placa!** ⚽
+Galeria interativa de lendas do futebol, com busca por jogador. Projeto de front-end feito com HTML, CSS e JavaScript puro, sem frameworks.
 
-Você acabou de marcar um golaço criando essa galeria incrível de lendas do futebol! ⚽ Com essa aplicação, você pode mergulhar no mundo mágico do esporte e descobrir tudo sobre seus ídolos.
+## O que faz
 
-**Tecnologias utilizadas:**
+- Pesquisa por nome, descrição ou tags do jogador, sem diferenciar maiúsculas de minúsculas.
+- Mostra um cartão por resultado, com descrição, gols, assistências, clubes, posição e data de nascimento, além de um link para saber mais.
+- Avisa quando o campo de busca está vazio.
 
-* **HTML:** A estrutura da página, a base de tudo! 
-* **CSS:** Deixando tudo bonitinho e organizado, com um layout moderno e responsivo. 
-* **JavaScript:** A mágica por trás da pesquisa e exibição dos dados. ⚡
+## Tecnologias
 
-**Como funciona:**
+HTML5, CSS3 e JavaScript (ES6). Os dados dos jogadores ficam em `dados.js`.
 
-1. **Pesquise:** Digite o nome do seu jogador favorito e clique em "Pesquisar".
-2. **Explore:** Descubra informações detalhadas sobre a carreira do jogador, como clubes, gols, assistências e muito mais.
-3. **Divirta-se:** Navegue pela galeria e relembre os momentos mais emocionantes do futebol.
+## Como rodar
 
-**Contribuindo para o projeto:**
+Não precisa instalar nada: baixe o repositório e abra o `index.html` no navegador.
 
-Quer ajudar a tornar essa galeria ainda mais incrível? Fique à vontade para contribuir! 
+## Estrutura
 
-* **Corrija bugs:** Se você encontrar algum erro, abra uma issue.
-* **Adicione novos jogadores:** Envie um pull request com os dados do seu jogador favorito.
-* **Melhore o design:** Sugira novas ideias para deixar a interface mais bonita e intuitiva.
+| Arquivo | Função |
+|---|---|
+| `index.html` | Estrutura da página |
+| `styles.css` | Estilos |
+| `app.js` | Lógica de busca e montagem dos resultados |
+| `dados.js` | Base de dados dos jogadores |
 
-**Curiosidades:**
+## Contribuindo
 
-* **Sabia que...** essa aplicação foi desenvolvida com muito café e paixão pelo futebol? ☕⚽
-* **Dica:** Tente pesquisar por apelidos famosos, como "Rei Pelé" ou "Fenômeno".
+Sugestões são bem-vindas: abra uma issue para reportar um erro ou envie um pull request com novos jogadores no formato de `dados.js`.
 
-**Vamos juntos construir a maior galeria de ídolos do futebol da internet!**
+## Autor
 
-**Agradecimentos:**
-
-Agradecemos a todos que contribuíram para este projeto!
-
-**[Filipe Borja Freitas]**
-
-**[https://github.com/iTzB0r]**
+**Filipe Borja Freitas Silva** · [GitHub](https://github.com/iTzB0r) · [LinkedIn](https://linkedin.com/in/filipe-borja-data)
