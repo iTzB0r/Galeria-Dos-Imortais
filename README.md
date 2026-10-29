@@ -2,6 +2,8 @@
 
 Galeria interativa de lendas do futebol, com busca por jogador. Projeto de front-end feito com HTML, CSS e JavaScript puro, sem frameworks.
 
+**Demo ao vivo:** https://galeria-dos-imortais.vercel.app
+
 ## O que faz
 
 - Pesquisa por nome, descrição ou tags do jogador, sem diferenciar maiúsculas de minúsculas.
